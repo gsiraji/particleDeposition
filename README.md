@@ -1,6 +1,11 @@
 # particleDeposition
 Simulation of deposition of particles in a fluid network
 
+Read the preprint: 
+https://doi.org/10.48550/arXiv.2210.01780
+
+Comments and feedback: gessiraji@brandeis.edu
+
 
 
 particlesim.m: the main program. Requires particle.m and G.mat to run
@@ -21,3 +26,5 @@ potSolver.m: calculates the nodal pressures for the network G.
 
 Im2Graph.m: creates the graph G from an image.
 
+
+![alt text](https://github.com/gsiraji/particleDeposition/blob/main/tiles1to655to195edit.pdf)
